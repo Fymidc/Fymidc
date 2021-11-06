@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatih
-- 👀 I’m interested in creating web applications with HTML CSS JAVASCRİPT besides MERN stack - 🌱 I’m currently learning Node js and spring boot to improve my back end skills.
+- 👀 I’m interested in creating web applications by using MERN stack - 🌱 I’m currently learning Node js and Spring-boot to improve my back end skills.
 - 💞️ I’m looking to collaborate on modern web applications.
 - 📫 How to reach me bodurfatih1967@gmail.com
 
