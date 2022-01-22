@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih
-- 👀 I’m interested in creating web applications by using MERN stack - 🌱 I’m currently learning Node js and Spring-boot to improve my back end skills.
-- 💞️ I’m looking to collaborate on modern web applications.
+- 👀 I’m interested in creating web/mobile applications by using React js & React Native - 🌱 I’m currently learning Spring-boot to improve my back-end skills.
+- 💞️ I’m looking for collaborate on web/mobile applications.
 - 📫 How to reach me bodurfatih1967@gmail.com
 
 <!---
